@@ -14,7 +14,7 @@ Usage
 
 Classes
 -----------------------------------------------
-1. PatternView: UIView
+1. *PatternView: UIView*
   * Usage: In Storyboard, set the class of the UIView to be PatternView.
   * Functions:
 
@@ -30,7 +30,7 @@ Classes
    patternView.resetAnimation() 
    ```
 
-2. DotView: UIView
+2. *DotView: UIView*
   * Usage: In Storyboard, set the class of the UIView to be DotView.
   * Functions:
 
