@@ -24,7 +24,7 @@ Classes
    patternView.animateUp(y: 100) 
    ```
 
-   **resetAnimation**
+   **resetAnimation**  
    Resets the height and frame origin.y to the values upon initialization.
    ```
    patternView.resetAnimation() 
